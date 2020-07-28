@@ -7,8 +7,6 @@
 
 # Curso de Datos Abiertos y Hacking Cívico
 
-El curso tiene como objetivo habilitar las capacidades de la ciudadanía y los servidores públicos en el uso y generación de datos abiertos para el bien común.
-
 ## Tabla de contenidos
 
 - [Acerca del curso](#acerca-del-curso)
