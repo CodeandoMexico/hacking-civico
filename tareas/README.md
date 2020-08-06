@@ -2,7 +2,7 @@
 
 En esta carpeta sube los ejercicios y tareas del curso.
 
-## 21. Entrega
+## 1. Entrega
 
 La entrega de las tareas o ejercicios se hará subiéndolas a esta carpeta y tendrá como límite máximo una semana después del que el tema haya concluido. En caso de que por alguna razón no puedas realizarla durante este periodo te sugerimos subirla de todos modos, ya que al finalizar el curso, estás seguirán contando para poder generar tu constancia.
 
