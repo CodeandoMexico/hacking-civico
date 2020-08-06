@@ -7,38 +7,37 @@
 
 # Curso de Datos Abiertos y Hacking Cívico
 
-## Tabla de contenidos
-
-- [Acerca del curso](#acerca-del-curso)
-- [Estructura del repositorio](#estructura-del-repositorio)
-- [Código de conducta](#codigo-de-conducta)
-- [Agradecimientos](#agradecimientos)
-- [Licencia](#licencia)
-
-## Acerca del curso
-
 Este curso tiene como objetivo habilitar las capacidades de la ciudadanía y los servidores públicos en el uso y generación de datos abiertos para el bien común. Está estructurado en tres módulos consecutivos, llamados “_rutas_”, cada una de estas rutas está diseñada para abarcar temas específicos. El curso es virtual de tipo autogestivo.
 
 _No se requiere de conocimiento previo sobre los temas, el nivel del curso abarca conceptos básicos a intermedios._
 
 1. Ruta Cívica ⚡️ : Conoce qué son los datos abiertos y la tecnología cívica.
-2. Ruta Coder ⌨️ : Comienza a programar y desarrolla tus primeros hacks cívicos. 
-4. Ruta Hacker 👾 : Pon en uso tus habilidades de programación y desarrollo. 
+2. Ruta Coder ⌨️ : Comienza a programar y desarrolla tus primeros hacks cívicos.
+4. Ruta Hacker 👾 : Pon en uso tus habilidades de programación y desarrollo.
+
+## Tabla de contenidos
+
+- [Estructura del repositorio](#estructura-del-repositorio)
+- [Código de conducta](#codigo-de-conducta)
+- [Agradecimientos](#agradecimientos)
+- [Licencia](#licencia)
+
 
 ## Estructura del repositorio
-Este repositorio contiene varias carpetas y archivos que organizan el contenido del mismo:
 
-- [Tareas]() - es el lugar donde subirás los ejercicios o actividades.
-- [Material adicional]() - es el lugar donde podrás subir otros archivos como imágenes, PDFs, etc.
-- [Proyecto]() - es el lugar donde trabajarás tu proyecto.
-- [README]() - el documento con las indicaciones sobre este repositorio.
-- [COD]() - el código de conducta de Codeando México.
+Este repositorio está diseñado para que realices un [Fork](https://docs.github.com/es/github/getting-started-with-github/fork-a-repo) del mismo y contiene varias carpetas y/o archivos que organizan el contenido del mismo:
 
-Adcionalemnte estaremos usando este repositorio para llevar el control del curso de la siguiente manera:
+- [Notebooks 📓](/notebooks) - aquí podrás guardar tus Notebooks de Google Colab.
+- [Proyecto 📑](/proyecto) - aquí documentarás tu proyecto.
+- [Recursos 🗂](/recursos) - aquí podrás subir otros archivos como imágenes, PDFs, etc.
+- [Tareas 📝](/tareas) - aquí subirás los ejercicios o tareas.
+- [README 📌](https://github.com/CodeandoMexico/hacking-civico/blob/master/README.md) - documento con las indicaciones sobre este repositorio.
+
+Adicionalmente estaremos usando el repositorio original para llevar el control del curso de la siguiente manera:
 
 - [Issues](https://github.com/CodeandoMexico/hacking-civico/issues) - para entregar tareas y tener un espacio de discusión con los demás participantes.
 - [Projects](https://github.com/CodeandoMexico/hacking-civico/projects) - para poner anuncios, llevar un control de las sesiones y actividades.
-- [Wiki](https://github.com/CodeandoMexico/hacking-civico/wiki) - para subir todo el contenido del curso.
+- [Wiki](https://github.com/CodeandoMexico/hacking-civico/wiki) - para subir todo el contenido del curso y material adicional.
 
 ## Código de conducta
 TL; DR. Se respetuoso. El acoso y el abuso nunca son tolerados. Si te encuentras en una situación que te incomoda dentro de este curso, si alguna de las actividades o proyectos en sí mismo está creando un ambiente inseguro o inapropiado, o si interactuar con un miembro u colaborador de la comunidad te incomoda, infórmanos utilizando los procedimientos incluidos en [este documento](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md).
