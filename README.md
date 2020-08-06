@@ -40,9 +40,11 @@ Adicionalmente estaremos usando el repositorio original para llevar el control d
 - [Wiki](https://github.com/CodeandoMexico/hacking-civico/wiki) - para subir todo el contenido del curso y material adicional.
 
 ## Código de conducta
+
 TL; DR. Se respetuoso. El acoso y el abuso nunca son tolerados. Si te encuentras en una situación que te incomoda dentro de este curso, si alguna de las actividades o proyectos en sí mismo está creando un ambiente inseguro o inapropiado, o si interactuar con un miembro u colaborador de la comunidad te incomoda, infórmanos utilizando los procedimientos incluidos en [este documento](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md).
 
 ## Agradecimientos
+
 Agradecemos el trabajo y conocimiento de las siguientes organizaciones y personas que contributeron a este curso:
 
 - [Lab León](https://www.facebook.com/lab.leon.DGI) - Laboratorio de innovación pública y social de León.
@@ -55,4 +57,5 @@ Agradecemos el trabajo y conocimiento de las siguientes organizaciones y persona
 - [Fernanda Ramírez]() - Desarrolladora de software en Here Technologies.
 
 ## Licencia
-Todos los documentos y archivos de este repositorio tienen licencia [MIT license](LICENSE) © 2020 Codeando México.
+
+Los contenidos y productos de este curso pertenecen a Codeando México y Lab Léon, publicado bajo el licenciamiento [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
