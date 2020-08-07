@@ -45,11 +45,18 @@ Adicionalmente estaremos usando el repositorio original para llevar el control d
 
 A continuación se presenta la tabla que contiene todos los contenidos a ser cubiertos, y la fecha correspondiente de la liberación del contenido.
 
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
 <table width="100%">
     <thead>
         <tr>
             <th colspan="2">Tema</th>
             <th>Fecha</th>
+            <th>Entregable</th>
         </tr>
     </thead>
     <tbody>
@@ -57,39 +64,48 @@ A continuación se presenta la tabla que contiene todos los contenidos a ser cub
             <th rowspan="2">RUTA CÍVICA</th>
             <td>​Introducción​: Hacking Cívico + Open Data 101</td>
             <td>27/07/2020</td>
+            <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/3" target="_blank">Tarea 1</a></td>
         </tr>
         <tr>
             <td>GitHub​: Construyendo ciudadanía un commit a la vez;</td>
             <td>03/08/2020</td>
+            <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <th rowspan="4">RUTA CODER</th>
             <td>​Python 101​: Introducción al código</td>
             <td>10/08/2020</td>
+            <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <td>Exploración​: Manipulación y limpieza de datos</td>
             <td>17/08/2020</td>
+            <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
             <td>Visualización​: Resumir y comprender los datos</td>
             <td>24/08/2020</td>
+            <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <td>Proyecto: Sesión de definición</td>
             <td>30/08/2020</td>
+            <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <th rowspan="3">RUTA HACKER</th>
             <td>Scrapeando datos cívicos</td>
             <td>07/09/2020</td>
+            <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <td>​APIs cívicas​: Sirviendo y consumiendo data</td>
             <td>14/09/2020</td>
+            <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <td>​Mapas​: Trabajando con datos georreferenciados</td>
             <td>21/09/2020</td>
+            <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
     </tbody>
 </table>
