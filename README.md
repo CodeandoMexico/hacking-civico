@@ -45,12 +45,6 @@ Adicionalmente estaremos usando el repositorio original para llevar el control d
 
 A continuación se presenta la tabla que contiene todos los contenidos a ser cubiertos, y la fecha correspondiente de la liberación del contenido.
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
 <table width="100%">
     <thead>
         <tr>
