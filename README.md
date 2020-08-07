@@ -61,7 +61,7 @@ A continuación se presenta la tabla que contiene todos los contenidos a ser cub
             <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/3" target="_blank">Tarea 1</a></td>
         </tr>
         <tr>
-            <td>GitHub​: Construyendo ciudadanía un commit a la vez;</td>
+            <td>GitHub​: Construyendo ciudadanía un commit a la vez</td>
             <td>03/08/2020</td>
             <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
@@ -116,12 +116,12 @@ Agradecemos el trabajo y conocimiento de las siguientes organizaciones y persona
 
 - [Lab León](https://www.facebook.com/lab.leon.DGI) - Laboratorio de innovación pública y social de León.
 - [Dirección Genereal de Innovación](https://www.facebook.com/DireccionGeneraldeInnovacionLeon) - Gobierno Municipal de León.
-- [Here Technologies](here.com) - Empresa colaboradora para el servicios de mapas y geolocalización.
-- [Ricardo Mirón](https://github.com/ricardomiron) - Coordinador de datos abierto en Lab León.
+- [Here Technologies](here.com) - Empresa colaboradora para el servicio de mapas y geolocalización.
+- [Ricardo Mirón](https://github.com/ricardomiron) - Coordinador de datos abiertos en Lab León.
 - [Rodolfo Ferro](https://github.com/RodolfoFerro) - Líder de comunidad de Codeando México.
-- [Sofía Corona]() - Líder de proyecto en Códeando México.
-- [Alma Rangel](https://github.com/almarngl) - Hacker in chief en Codeando México.
-- [Fernanda Ramírez]() - Desarrolladora de software en Here Technologies.
+- [Sofía Corona]() - Líder de operaciones en Codeando México.
+- [Alma Rangel](https://github.com/almarngl) - Directora general de Codeando México.
+- [Fernanda Ramírez]() - Dev evangelist en Here Technologies.
 
 
 ## Licencia
