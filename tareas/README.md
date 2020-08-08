@@ -1,45 +1,15 @@
-# Tareas 📚
+ ##  <h2> -  ¿Cuál fue el proyecto? 
 
-En esta carpeta sube los ejercicios y tareas del curso.
+Format: ![Alt Text](https://datos.bancomundial.org/media/portal-images/Portal-GenderStats.png) 📊📈📉
 
-## 1. Entrega
+## <h2> [https://datos.bancomundial.org/](url) **Los datos de libre acceso del Banco Mundial**. 
 
-La entrega de las tareas o ejercicios se hará subiéndolas a esta carpeta y tendrá como límite máximo una semana después del que el tema haya concluido. En caso de que por alguna razón no puedas realizarla durante este periodo te sugerimos subirla de todos modos, ya que al finalizar el curso, estás seguirán contando para poder generar tu constancia.
+###### <h6> Es una plataforma digital de **acceso abierto y gratuito a datos** sobre el desarrollo en el mundo. Presenta información sobre vivienda, desarrollo, consumo y series cronológicas sobre diversos temas. Los datos que se presentan sirven para preparar estrategias de asistencia a los países, estudios sobre pobreza, documentos de investigación y trabajos sectoriales y económicos. 
 
-### 1.1 Revisión
+ ##  <h2> -  ¿En dónde y cuándo se realizó ese proyecto? 🤔
 
-Cada semana los instructores abrirán uno o varios [Issues](https://github.com/CodeandoMexico/hacking-civico/issues) en el repositorio original con instrucciones sobre las tareas o ejercicios, es importante que revises estas instrucciones ya que indicarán la manera en la que se revisarán. La forma más usual será comentando ese _Issue_ con un enlace que dirija al entregable.
+###### <h6> No señala año de creación, solo que la plataforma la encabeza el Banco Mundial, el cual trabaja con organismos de las Naciones Unidas, la Organización para la Cooperación y el Desarrollo Económicos (OCDE), y el Fondo Monetario Internacional (FMI). Juntos definen indicadores acordados a nivel internacional y los métodos para el intercambio de datos.
 
-> Nota: no debes abrir nuevos Issues para entregar tus tareas o ejercicios.
+  ##  <h2> -  ¿Qué proyecto con datos se te ocurre que podría implementarse en tu ciudad? 🤓
 
-### 1.2 Estatus
-
-Puedes consultar todas la tareas pasadas, actuales y próximas (conforme estén disponibles) en la sección de [Projects](https://github.com/CodeandoMexico/hacking-civico/projects/1) del repositorio original.
-
-### 1.3 Discusión
-
-Dentro de estos _Issues_ discutiremos las diferentes soluciones a las que cada participante llegó. Los instructores intentarán dar retroalimentación a cualquier duda o problema que pueda surgir, pero también se motiva que contestes dudas o ayudes a otros compañeros para hacer más colaborativa la interacción entre todos.
-
-
-## 2. Especificaciones
-
-Recuerda seguir las siguientes especificaciones de nombre y formato.
-
-### 2.1 Nombre de los archivos
-
-Todos los archivos deben ser archivos `.md` y deben empezar con el número de tarea, seguido del nombre del tema al que corresponde (_usa guiones en lugar de espacios_). No olvides darles una estructura utilizando la sintaxis de Markdown.
-
-Ej.
-> 01-introduccion.md
-
-> 02-python-101.md
-
-> ...
-
-En caso de que sean múltiples ejercicios de un solo tema, deberás agruparlos en un solo archivo. Puedes editarlo y guardar los cambios conforme vayas avanzando.
-
-### 2.2 Ejercicios en Google Colab
-
-Para los ejercicios de código en donde utilicemos los notebooks de Google Colab, habrá una carpeta específica para que puedas sincronizarlos. Aquí deberás subir únicamente un resumen de lo que realizaste en ellos, todo dentro de un solo archivo Markdown por tema, puedes agregar bloques de código o insertar imágenes si así lo deseas.
-
-_Puedes encontrar más detalles sobre los notebooks en la sección de_ `notebooks\README.md` _de este repositorio._
+###### <h6> Me interesaría generar un trabajo sobre **gasto público y contrataciones en obra pública**, donde se pueda conocer el gasto del presupuesto asignado por municipio y procesos de licitación o adjudicación directa, que otorgue al ciudadano información precisa por municipio. 
