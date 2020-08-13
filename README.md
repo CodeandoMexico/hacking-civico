@@ -68,21 +68,21 @@ A continuación se presenta la tabla que contiene todos los contenidos a ser cub
         <tr>
             <th rowspan="4">RUTA CODER</th>
             <td>​Python 101​: Introducción al código</td>
-            <td>10/08/2020</td>
+            <td>14/08/2020</td>
             <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <td>Exploración​: Manipulación y limpieza de datos</td>
-            <td>17/08/2020</td>
+            <td>20/08/2020</td>
             <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
             <td>Visualización​: Resumir y comprender los datos</td>
-            <td>24/08/2020</td>
+            <td>27/08/2020</td>
             <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <td>Proyecto: Sesión de definición</td>
-            <td>30/08/2020</td>
+            <td>31/08/2020</td>
             <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
