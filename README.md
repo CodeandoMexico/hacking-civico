@@ -63,13 +63,13 @@ A continuación se presenta la tabla que contiene todos los contenidos a ser cub
         <tr>
             <td>GitHub​: Construyendo ciudadanía un commit a la vez</td>
             <td>03/08/2020</td>
-            <td><a href="#" target="_blank">&nbsp;</a></td>
+            <td><a href="#" target="_blank">&nbsp; - </a></td>
         </tr>
         <tr>
             <th rowspan="4">RUTA CODER</th>
             <td>​Python 101​: Introducción al código</td>
             <td>14/08/2020</td>
-            <td><a href="#" target="_blank">&nbsp;</a></td>
+            <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/13" target="_blank">Tarea 2</a></td>
         </tr>
         <tr>
             <td>Exploración​: Manipulación y limpieza de datos</td>
