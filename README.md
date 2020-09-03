@@ -74,7 +74,7 @@ A continuación se presenta la tabla que contiene todos los contenidos a ser cub
         <tr>
             <td>Exploración​: Manipulación y limpieza de datos</td>
             <td>20/08/2020</td>
-            <td><a href="#" target="_blank">&nbsp;</a></td>
+            <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/15" target="_blank">Tarea 3</a></td>
         </tr>
             <td>Visualización​: Resumir y comprender los datos</td>
             <td>27/08/2020</td>
