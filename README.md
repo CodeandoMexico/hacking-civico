@@ -78,12 +78,12 @@ A continuación se presenta la tabla que contiene todos los contenidos a ser cub
         </tr>
             <td>Visualización​: Resumir y comprender los datos</td>
             <td>31/08/2020</td>
-            <td><a href="#" target="_blank">&nbsp;</a></td>
+            <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/19" target="_blank">Tarea 4</a></td>
         </tr>
         <tr>
             <td>Proyecto: Sesión de definición</td>
             <td>11/09/2020</td>
-            <td><a href="#" target="_blank">&nbsp;</a></td>
+            <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/20" target="_blank">Indicaciones</a></td>
         </tr>
         <tr>
             <th rowspan="3">RUTA HACKER</th>
