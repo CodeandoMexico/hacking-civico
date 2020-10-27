@@ -49,7 +49,7 @@ A continuación se presenta la tabla que contiene todos los contenidos a ser cub
     <thead>
         <tr>
             <th colspan="2">Tema</th>
-            <th>Fecha</th>
+            <th>Fecha de inicio</th>
             <th>Entregable</th>
         </tr>
     </thead>
@@ -57,48 +57,48 @@ A continuación se presenta la tabla que contiene todos los contenidos a ser cub
         <tr>
             <th rowspan="2">RUTA CÍVICA</th>
             <td>​Introducción​: Hacking Cívico + Open Data 101</td>
-            <td>27/07/2020</td>
+            <td>27/10/2020</td>
             <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/3" target="_blank">Tarea 1</a></td>
         </tr>
         <tr>
             <td>GitHub​: Construyendo ciudadanía un commit a la vez</td>
-            <td>03/08/2020</td>
+            <td>27/10/2020</td>
             <td><a href="#" target="_blank">&nbsp; - </a></td>
         </tr>
         <tr>
             <th rowspan="4">RUTA CODER</th>
             <td>​Python 101​: Introducción al código</td>
-            <td>14/08/2020</td>
+            <td>02/11/2020</td>
             <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/13" target="_blank">Tarea 2</a></td>
         </tr>
         <tr>
             <td>Exploración​: Manipulación y limpieza de datos</td>
-            <td>20/08/2020</td>
+            <td>02/11/2020</td>
             <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/15" target="_blank">Tarea 3</a></td>
         </tr>
             <td>Visualización​: Resumir y comprender los datos</td>
-            <td>31/08/2020</td>
+            <td>02/11/2020</td>
             <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/19" target="_blank">Tarea 4</a></td>
         </tr>
         <tr>
-            <td>Proyecto: Sesión de definición</td>
-            <td>11/09/2020</td>
+            <td>Proyecto: inicio e investigación</td>
+            <td>16/11/2020</td>
             <td><a href="https://github.com/CodeandoMexico/hacking-civico/issues/20" target="_blank">Indicaciones</a></td>
         </tr>
         <tr>
             <th rowspan="3">RUTA HACKER</th>
             <td>Scrapeando datos cívicos</td>
-            <td>14/09/2020</td>
+            <td>16/11/2020</td>
             <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <td>​APIs cívicas​: Sirviendo y consumiendo data</td>
-            <td>21/09/2020</td>
+            <td>16/11/2020</td>
             <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
         <tr>
             <td>​Mapas​: Trabajando con datos georreferenciados</td>
-            <td>28/09/2020</td>
+            <td>16/11/2020</td>
             <td><a href="#" target="_blank">&nbsp;</a></td>
         </tr>
     </tbody>
