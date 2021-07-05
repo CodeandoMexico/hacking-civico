@@ -105,7 +105,7 @@ TL; DR. Se respetuoso. El acoso y el abuso nunca son tolerados. Si te encuentras
 Agradecemos el trabajo y conocimiento de las siguientes organizaciones y personas que contribuyeron a este curso:
 
 - [Lab León](https://www.facebook.com/lab.leon.DGI) - Laboratorio de innovación pública y social de León.
-- [Dirección Genereal de Innovación](https://www.facebook.com/DireccionGeneraldeInnovacionLeon) - Gobierno Municipal de León.
+- [Dirección General de Innovación](https://www.facebook.com/DireccionGeneraldeInnovacionLeon) - Gobierno Municipal de León.
 - [Here Technologies](here.com) - Empresa colaboradora para el servicio de mapas y geolocalización.
 - [Ricardo Mirón](https://github.com/ricardomiron) - Coordinador de datos abiertos en Lab León.
 - [Rodolfo Ferro](https://github.com/RodolfoFerro) - Líder de comunidad de Codeando México.
