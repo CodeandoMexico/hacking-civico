@@ -102,7 +102,7 @@ TL; DR. Se respetuoso. El acoso y el abuso nunca son tolerados. Si te encuentras
 
 ## Agradecimientos
 
-Agradecemos el trabajo y conocimiento de las siguientes organizaciones y personas que contributeron a este curso:
+Agradecemos el trabajo y conocimiento de las siguientes organizaciones y personas que contribuyeron a este curso:
 
 - [Lab León](https://www.facebook.com/lab.leon.DGI) - Laboratorio de innovación pública y social de León.
 - [Dirección Genereal de Innovación](https://www.facebook.com/DireccionGeneraldeInnovacionLeon) - Gobierno Municipal de León.
