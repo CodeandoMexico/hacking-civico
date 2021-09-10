@@ -1,0 +1,1211 @@
+/** FONTS **/
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+/** GLOBAL **/
+body {
+    padding-top: 61px;
+    background-color: #F2F2F2;
+    background: #F2F2F2;
+}
+
+.no-padding {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.link {
+    background: #F4476D;
+    padding: 10px 5px 10px 5px;
+    color: #F4F3F4;
+    font-size: 24px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+}
+
+.link:hover {
+    color: #69E6B6;
+    background: #222423;
+    text-decoration: none;
+}
+
+.change-color {
+    background: #69E6B6;
+}
+
+.move-izqu {
+    margin-left: 30px;
+}
+
+.footer ul li a{
+    color: #222423 !important;
+}
+
+.footer ul li a:hover{
+    color: #69E6B6 !important;
+    text-decoration: none !important;
+    outline: 0 !important;
+}
+
+/** TOP NAVIGATION **/
+.navbar-inverse {
+    background-color: #222423;
+    border-color: #222423;
+    min-height: 62px;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    padding: 10px;
+    margin: 0px;
+}
+
+.navbar-brand>img {
+    width: 41px;
+}
+
+.brand-span {
+    font-size: 16px;
+    color: #F4F3F4;
+    top: 20px;
+    position: relative;
+    left: 10px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    line-height: 19px;
+    text-transform: uppercase;
+}
+
+.brand-span a {
+    margin-top: 6px;
+    color: #F4F3F4;
+    background-color: transparent;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.brand-span a:hover{
+    color: #ECDD44;
+    text-decoration: none !important;
+    outline: 0 !important;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+    color: #69E6B6;
+    background-color: transparent;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: #69E6B6;
+    background-color: transparent;
+    cursor: default;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    margin-top: 6px;
+    color: #F4F3F4;
+    background-color: transparent;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #ECDD44;
+}
+
+/** CONTAINER ESTUDIANTES **/
+.container-estudiantes {
+    height: 597px;
+    background-image: url(../img/header.png) !important;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+}
+
+.container-home {
+    background: #F4F3F4;
+    width: 100%;
+}
+
+.img-top {
+    width: 100%;
+    height: 117px;
+    margin: 10px auto;
+    display: block;
+    text-align: center;
+}
+
+.container-tech {
+    background: #222423;
+    width: 100%;
+}
+
+.interno-divs {
+    width: 60%;
+    margin-left: 35px;
+}
+
+.container-home .img-bicycle {
+    margin: 0 auto;
+    display: block;
+    width: 60%;
+}
+
+.container-home .img-laptop {
+    width: 30%;
+    margin: 40px auto;
+    display: block;
+}
+
+.container-home .img-backlines {
+    width: 60%;
+    margin: 20px auto;
+    display: block;
+}
+
+.text-center {
+    text-align: center !important;
+    padding: 0px !important;
+}
+
+.texto-habilidades p {
+    padding: 0px !important;
+    text-align: left !important;
+    width: 70% !important;
+}
+
+.img-lineleft {
+    width: 25px;
+    position: relative;
+    display: inline-block;
+    float: left;
+    top: -10px;
+}
+.img-lineright {
+    width: 20px;
+    position: relative;
+    display: inline-block;
+    float: right;
+    top: -10px;
+}
+.container-home h2 {
+    background: #69E6B6;
+    font-size: 32px;
+    text-align: center;
+    margin: 30px auto;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    width: 50%;
+    color: #F4F3F4;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.container-home p {
+    font-family: 'cabinregular';
+    font-size: 18px;
+    line-height: 22px;
+    color: #656768;
+    text-align: justify;
+    padding: 50px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.mover-rigths {
+    padding: 0px !important;
+    width: 80% !important;
+    font-family: 'Roboto Mono' !important;
+    font-weight: 400;
+}
+
+.container-tech img {
+    width: 80%;
+    padding: 50px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.otro-tamano {
+    width: 58% !important;
+}
+
+.container-textos-acerca {
+    margin-bottom: 50px;
+}
+
+.img-microsoft {
+    width: 200px;
+    /* float: right; */
+    position: relative;
+    left: 200px;
+}
+
+.img-lineright1 {
+    width: 25px;
+    position: relative;
+    display: inline-block;
+    float: right;
+    top: -10px;
+}
+
+.img-lineleft1 {
+    width: 25px;
+    position: relative;
+    display: inline-block;
+    float: left;
+    top: -10px;
+}
+
+.container-participa {
+    width: 100%;
+    background: #F4F3F4;
+}
+
+.container-generacion {
+    width: 100%;
+    background: #222423;
+}
+
+.container-generacion img {
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+    width: 80%;
+}
+
+.container-participa {
+    padding: 70px 0px 10px 0px;
+}
+
+.logo-estudiantes {
+    width: 295px;
+    background: #69E6B6;
+    padding: 10px 30px 10px 30px;
+}
+
+.container-participa-interno {
+    width: 55%;
+    margin: 60px auto 10px;
+}
+
+.container-participa-interno h3 {
+    color: #656768;
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 10px;
+}
+
+.container-participa-interno img {
+    width: 162px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
+.container-participa-interno p{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: justify;
+    color: #656768;
+}
+
+.logo-city {
+    width: 100%;
+
+}
+
+.container-city {
+    border-bottom: 5px solid #69E6B6;
+}
+
+.container-city-retos {
+    width: 100%;
+    border-bottom: 5px solid #656768;
+    margin-top: 100px;
+}
+
+#temario {
+    width: 100%;
+    background: #F4476D;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nombre-span {
+    text-align: center;
+    display: block;
+    color: #656768;
+    font-size: 18px;
+    line-height: 21px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+}
+.move-top {
+    position: relative;
+    top: 5px;
+}
+
+#temario-secundario {
+    width: 100%;
+    background: #F2F2F2;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.container-temario-interno {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.container-temario-interno h2 {
+    font-size: 38px;
+    color: #F4F3F4;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    line-height: 38px;
+}
+
+.container-temario-interno h3 {
+    font-size: 18px;
+    color: #222423;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    line-height: 21px;
+}
+
+.container-temario-interno h2 span {
+    font-size: 25px !important;
+}
+
+.container-temario-interno p{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: justify;
+    color: #F4F3F4;
+}
+
+#temario-secundario img {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
+.modifica-espacio {
+    margin: 70px auto !important;
+    width: 100% !important;
+    margin-bottom: 0px !important;
+}
+
+#temario-secundario p{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: left;
+    color: #656768;
+    width: 60%;
+    margin: 20px auto;
+}
+
+strong a {
+    color: #222423 !important;
+}
+
+strong a:hover {
+    color: #69E6B6 !important;
+    text-decoration: none !important;
+}
+
+#temario-tercero {
+    width: 100%;
+    background: #222423;
+}
+
+.border {
+    border-top: 15px solid;
+    padding: 30px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    line-height: 14px;
+    color: #767777;
+    font-size: 12px;
+}
+.border-fload-right {
+    width: 31px;
+    height: 31px;
+    border-top: 6px solid;
+    border-left: 6px solid;
+}
+
+.border-fload-left {
+    width: 31px;
+    height: 31px;
+    border-bottom: 6px solid;
+    border-right: 6px solid;
+    float: right;
+}
+
+.container-temas {
+    padding: 30px;
+    height: 378px;
+}
+.border-right-separador {
+    border-right: 1px solid #767777;
+}
+.border-yellow {
+    border-color: #5E5B2D;
+}
+.border-red {
+    border-color: #763241;
+}
+.border-green {
+    border-color: #40715E;
+}
+
+.border:hover .border-yellow {
+    border-color: #ECDD44;
+}
+.border:hover .border-red {
+    border-color: #F4476D;
+}
+.border:hover .border-green {
+    border-color: #6EE5B7;
+}
+
+.border:hover {
+    color: #F4F3F4;
+}
+.border-yellow:hover {
+    border-color: #ECDD44;
+}
+.border-red:hover {
+    border-color: #F4476D;
+}
+.border-green:hover {
+    border-color: #6EE5B7;
+}
+
+.container-temas p .color-yellow:hover {
+    color: #ECDD44;
+}
+.container-temas p .color-red:hover {
+    color: #F4476D;
+}
+.container-temas p .color-green:hover {
+    color: #6EE5B7;
+}
+
+#giras {
+    width: 100%;
+    background: #656768;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#clubes {
+    width: 100%;
+    background: #ECDD44;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.logo-mapa {
+    width: 100% !important;
+    margin: 50px auto !important;
+    position: relative;
+    top: -80px;
+}
+
+.gira-secundario {
+    padding-bottom: 0px !important;
+}
+
+.gira-secundario p {
+    margin: 0px !important;
+    position: relative !important;
+    top: -80px !important;
+    width: 100% !important;
+    text-align: right !important;
+    font-size: 18px !important;
+}
+
+.proximamente {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    position: relative;
+    top: 313px;
+    z-index: 1;
+    left: 70px;
+    background: #69E6B6;
+    padding: 10px 25px 10px 25px;
+    font-size: 36px;
+    color: #656768;
+}
+
+.new-move {
+    top: -300px;
+    left: 38%;
+}
+
+.clubes-secundario .texto-clubes {
+    width: 100% !important;
+    font-size: 18px !important;
+    color: #222423 !important;
+}
+
+.clubes-secundario .texto-clubes-right {
+    width: 100% !important;
+    text-align: right !important;
+    font-size: 18px !important;
+}
+
+.separador-bottom {
+    height: 17px;
+    display: block;
+    width: 100%;
+    background: #656768;
+}
+
+.active-dos {
+    color: #ECDD44 !important;
+}
+
+.footer {
+    padding: 30px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    font-size: 18px;
+    color: #222423;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer ul li {
+    margin-bottom: 10px;
+}
+
+.move-bottom {
+    position: absolute;
+    bottom: 0;
+    /* left: 0; */
+    right: 0;
+}
+
+.footer-secundario {
+    background: #222423 !important;
+}
+
+.logo-codeando {
+    width: 175px;
+}
+
+.logo-micro {
+    width: 110px;
+}
+
+.slack {
+    width: 34px;
+    height: 34px;
+    background-image: url(../img/sprite-redes.png);
+    background-repeat: no-repeat;
+    background-size: 235px;
+    background-position: 0px 0px;
+    display: inline-block;
+    float: right;
+    margin-right: 15px;
+}
+
+.slack:hover {
+    background-position: 0px -67px;
+}
+
+.face {
+    width: 34px;
+    height: 34px;
+    background-image: url(../img/sprite-redes.png);
+    background-repeat: no-repeat;
+    background-size: 216px;
+    background-position: -61px 4px;
+    display: inline-block;
+    float: right;
+    position: relative;
+    top: -1px;
+    margin-right: 15px;
+}
+
+.face:hover {
+    background-position: -61px -58px;
+}
+
+.twitter {
+    width: 34px;
+    height: 34px;
+    background-image: url(../img/sprite-redes.png);
+    background-repeat: no-repeat;
+    background-size: 225px;
+    background-position: -128px 0px;
+    display: inline-block;
+    float: right;
+    margin-right: 15px;
+    position: relative;
+    top: 2px;
+}
+
+.twitter:hover{
+    background-position: -128px -64px;
+}
+
+.github {
+    width: 34px;
+    height: 34px;
+    background-image: url(../img/sprite-redes.png);
+    background-repeat: no-repeat;
+    background-size: 225px;
+    background-position: -193px 0px;
+    display: inline-block;
+    float: right;
+    position: relative;
+    top: 2px;
+}
+
+.github:hover {
+    background-position: -193px -64px;
+}
+
+.container-retos-interno {
+    width: 100%;
+    background: #F4F3F4;
+    margin-bottom: 0px;
+}
+
+.container-retos-interno h3 {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #656768;
+    text-align: justify;
+    width: 40%;
+    margin: 50px auto;
+    display: block;
+}
+.img-destok-retos {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+.hr-yellow {
+    height: 22px;
+    width: 100%;
+    background: #ECDD44;
+    margin-top: 0px !important;
+}
+.hr-red {
+    height: 22px;
+    width: 100%;
+    background: #F4476D;
+    margin-top: 0px !important;
+}
+.hr-green {
+    height: 22px;
+    width: 100%;
+    background: #6EE5B7;
+    margin-top: 0px !important;
+}
+.img-civica {
+    width: 200px;
+}
+
+.active-a {
+    color: #ECDD44 !important;
+}
+
+.container-retos-interno h2{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 22px;
+    color: #656768;
+}
+.container-retos-interno p {
+    color: #656768;
+    font-size: 18px;
+    line-height: 22px;
+    width: 80%;
+    margin: 30px;
+    margin-left: 0px;
+}
+
+.panel-group {
+    margin-top: 50px;
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.panel-group .panel {
+        background: transparent;
+    border-color: transparent;
+    border: 0px;
+    box-shadow: none;
+}
+
+.accordion-toggle {
+    font-size: 14px;
+    line-height: 22px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    color: #222423 !important;
+}
+
+.panel-body {
+    font-size: 14px;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    color: #222423 !important;
+}
+
+.reto-green .accordion-toggle {
+    padding: 5px;
+    background: #6EE5B7;
+    padding-right: 30px;
+}
+
+.reto-red .accordion-toggle {
+    padding: 5px;
+    background: #F4476D;
+    padding-right: 30px;
+}
+
+.reto-yellow .accordion-toggle {
+    padding: 5px;
+    background: #ECDD44;
+    padding-right: 30px;
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    padding-left: 75px;
+}
+
+.panel-default>.panel-heading {
+    margin-bottom: 15px;
+}
+
+.panel-heading [data-toggle="collapse"]:after {
+    font-family: 'fontawesome';
+    content: "\f054"; /* "play" icon */
+    float: left;
+    font-size: 40px;
+    line-height: 22px;
+    /* rotate "play" icon from > (right arrow) to down arrow */
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(90deg);
+    margin-right: 30px;
+}
+.panel-heading [data-toggle="collapse"].collapsed:after {
+    /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(0deg);
+}
+
+.reto-green .panel-heading [data-toggle="collapse"].collapsed:after,
+.reto-green .panel-heading [data-toggle="collapse"]:after {
+    color: #6EE5B7;
+}
+
+.reto-red .panel-heading [data-toggle="collapse"].collapsed:after,
+.reto-red .panel-heading [data-toggle="collapse"]:after {
+    color: #F4476D;
+}
+
+.reto-yellow .panel-heading [data-toggle="collapse"].collapsed:after,
+.reto-yellow .panel-heading [data-toggle="collapse"]:after {
+    color: #ECDD44;
+}
+
+@media (max-width: 1024px) {
+    .container-participa-interno {
+        width: 70%;
+    }
+}
+
+@media (max-width: 991px) {
+    .brand-span a {
+        display: none !Important;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .panel-heading [data-toggle="collapse"].collapsed:after,
+    .panel-heading [data-toggle="collapse"]:after {
+        display: none;
+    }
+    .container-retos-interno h3 {
+        font-size: 15px;
+        margin: 10px auto;
+        width: 90%;
+    }
+    .img-destok-retos {
+        width: 80%;
+    }
+    .img-civica {
+        width: 140px;
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .container-retos-interno h2 {
+        font-size: 24px;
+    }
+    .panel-group {
+        width: 100%;
+    }
+    .container-retos-interno p {
+        width: 100%;
+        line-height: 22px;
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    .container-participa-interno a {
+        margin-bottom: 20px;
+        display: block;
+    }
+    .new-move {
+        display: none;
+    }
+    .interno-divs,
+    .container-participa-interno {
+        width: 100%;
+    }
+    .container-temario-interno {
+        width: 80%;
+    }
+    .container-temas,
+    .border {
+        padding: 10px;
+    }
+    .footer ul {
+        padding-left: 0px;
+    }
+    .footer {
+        font-size: 16px;
+    }
+    .container-home h2 {
+        margin: 20px auto;
+        width: 80%;
+    }
+    .img-microsoft {
+        left: 0px;
+    }
+    .container-temario-interno {
+        width: 90%;
+        margin: 20px;
+    }
+}
+
+@media (max-width: 736px) {
+    .container-participa {
+        padding: 20px 0px 10px 0px;
+    }
+    .container-participa-interno {
+        margin: 20px auto 10px;
+    }
+    .container-participa-interno img{
+        display: inline-block;
+        float: left;
+        margin-right: 25px;
+            margin: 0 auto;
+            display: block;
+            text-align: center;
+            /* width: 10%; */
+            float: inherit;
+    }
+    #temario-secundario p {
+        width: 100%;
+        text-align: center;
+    }
+    .container-temas {
+        height: inherit !important;
+    }
+    .border-fload-left {
+        top: -31px;
+        position: relative;
+    }
+    #temario-secundario {
+        padding-top: 20px;
+    }
+    .clubes-secundario .link{
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 20px;
+    }
+    .texto-clubes-right {
+        text-align: center !important;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer ul {
+        margin-bottom: 30px;
+    }
+    .move-bottom {
+        position: inherit !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .container-home .img-backlines {
+        display: none;
+    }
+    .img-top {
+        height: 50px;
+    }
+    .container-tech img {
+        width: 100%;
+        padding: 12px;
+    }
+    .otro-tamano {
+        width: 100% !important;
+    }
+    .container-home h2 {
+        width: 100%;
+        font-size: 22px;
+    }
+    .container-home .img-bicycle {
+        width: 100%;
+    }
+    .container-home p {
+        padding: 10px;
+        width: 100%;
+        font-size: 14px;
+    }
+    .interno-divs {
+        margin: 20px;
+        margin-left: 0px;
+    }
+    .img-microsoft {
+        width: 150px;
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .texto-habilidades .col-sm-4 {
+        width: 100%;
+        margin: 30px auto;
+    }
+    .container-home .img-laptop {
+        width: 100%;
+        margin: 10px auto;
+    }
+    .container-estudiantes {
+        height: 200px;
+    }
+    .container-participa-interno img {
+       width: 140px;
+            margin: 0 auto;
+            display: block;
+            text-align: center;
+            /* width: 10%; */
+            float: inherit;
+    }
+    .container-participa-interno p {
+        font-size: 15px;
+    }
+    .link {
+        font-size: 18px;
+    }
+    .container-temario-interno h2 {
+        font-size: 28px;
+    }
+    .container-temario-interno h2 span {
+        font-size: 21px !important;
+    }
+    .container-temario-interno p {
+        font-size: 16px;
+    }
+    .border {
+        color: #F4F3F4;
+    }
+    .border-yellow {
+        border-color: #ECDD44;
+    }
+    .border-red {
+        border-color: #F4476D;
+    }
+    .border-green {
+        border-color: #6EE5B7;
+    }
+    .logo-gira-hacking {
+        float: inherit !important;
+    }
+    .logo-mapa {
+        margin: 0px auto !important;
+    }
+    .proximamente {
+        font-size: 26px;
+        left: 0px;
+        top: 76px;
+    }
+    .gira-secundario p {
+        top: -20px !important;
+        text-align: center !important;
+        font-size: 16px !important;
+    }
+    .clubes-secundario .texto-clubes-right{
+        text-align: center !important;
+        font-size: 16px !important;
+    }
+    .move-footer-center {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+        margin-top: 11px;
+    }
+    .move-footer-in {
+        width: 50%;
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .footer-secundario {
+        padding-bottom: 10px;
+    }
+}
+
+@media (max-width: 500px) {
+    .container-generacion img {
+        width: 100%;
+        padding: 15px;
+    }
+    .container-participa-interno h3 {
+        text-align: center;
+        margin: 0px;
+    }
+    .container-participa-interno img {
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+        float: inherit;
+        margin-bottom: 10px;
+    }
+    .link {
+        float: inherit !important;
+    }
+    .container-temario-interno h2{
+        margin: 0px;
+        font-size: 24px;
+    }
+    .container-temario-interno h2 span {
+        font-size: 16px !important;
+    }
+    .container-temario-interno h3{
+        margin: 0px;
+    }
+    .logo-gira-hacking img {
+        float: right;
+    }
+    #temario-secundario img {
+        width: 100px;
+    }
+    .proximamente {
+        font-size: 16px;
+        left: 0px;
+        top: 266px;
+    }
+    .gira-secundario p {
+        font-size: 15px !important;
+    }
+    .container-temario-interno h2 {
+        margin: 0px;
+    }
+    #temario-secundario {
+        padding-top: 10px;
+    }
+    .clubes-secundario .texto-clubes {
+        font-size: 14px !important;
+    }
+    .clubes-secundario .link {
+        font-size: 16px;
+    }
+    #temario-secundario img {
+        width: 120px;
+    }
+    #temario-secundario p {
+        margin: 0px;
+        padding-bottom: 10px;
+    }
+    .footer {
+        padding: 10px;
+    }
+    .footer-secundario {
+        padding-top: 10px;
+    }
+    .move-footer-in {
+        width: 100% !important;
+        margin-bottom: 10px;
+    }
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (-webkit-device-pixel-ratio: 2)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: landscape) {
+      .container-participa-interno img {
+            width: 120px;
+            margin: 0 auto;
+            display: block;
+            text-align: center;
+            /* width: 10%; */
+            float: inherit;
+      }
+      #temario-secundario img {
+          float: right;
+      }
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 569px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (-webkit-device-pixel-ratio: 2)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: landscape) {
+      .move-footer-center {
+          width: 100%;
+      }
+      .img-top {
+            height: 50px;
+        }
+}
